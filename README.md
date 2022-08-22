@@ -1,4 +1,4 @@
-Ruby-On-Rails-Blog-Web-App
+Ruby On Rails Blog Web App
 
 This is a ruby on rails web application !
 
