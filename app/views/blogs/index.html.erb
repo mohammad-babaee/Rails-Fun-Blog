@@ -1,0 +1,19 @@
+
+
+<h1>Last News : </h1>
+
+<br />
+
+<div id="blogs">
+  <% @blogs.each do |blog| %>
+    <%= render blog %>
+    <p>
+      <%= link_to "Show this article", blog , class:"btn btn-primary"%>
+    </p>
+
+  <hr />
+  <% end %>
+
+</div>
+
+<%= link_to "Add New Post", new_blog_path , class:"btn btn-success" %>
