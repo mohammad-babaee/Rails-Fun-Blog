@@ -1,27 +1,27 @@
-# README
+Ruby-On-Rails-Blog-Web-App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a ruby on rails web application !
 
-Things you may want to cover:
+But It started From a Funny Idea , That I want to everyone can write anything & edit or delete other posts !
 
-* Ruby version
+You can write your posts on this blog & manage other posts ! it's simple , all of the peoples are admin ! it's creepy , I know ! but it's have a lot of fun so I called this project ( Fun Blog )
 
-* System dependencies
+You can register , login , logout , edit your posts , edit other posts , delete them ...
 
-* Configuration
+Important Note : I Don't have git on this system so I rather to create a zip file from this project and upload here ! [ Thank You For Your Understanding]
 
-* Database creation
+Ruby version : ruby 3.0.2p107
 
-* Database initialization
+Rails version : Rails 7.0.3.1
 
-* How to run the test suite
+System dependencies : Ruby , Rails , SQLite3 , Node.js , Yarn
 
-* Services (job queues, cache servers, search engines, etc.)
+Database : SQLite3 [ Really I don't Care About this because Database Switching is very easy with rails ! ]
 
-* Deployment instructions
+GemFiles : Devise [ I use this Gem to create Register/login/logout ]
 
-* ...
-# Rails-Fun-Blog
-# Rails-Fun-Blog
-# Rails-Fun-Blog
+Front-End framework that I Used For This Project is : Bootstrap
+
+Have Fun With This Project !
+
+Developer : Mohammad Babaee
